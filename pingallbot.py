@@ -234,11 +234,11 @@ async def bots(client, message):
 async def start(client, message):
   text = f'''
 Heya {message.from_user.mention},
-My name is **PingAll**. I'm here to help you to get everyone's attention by mentioning all members in your chat.
+My name is **Paradox**. I'm here to help you to get everyone's attention by mentioning all members in your chat.
 
 I have some additional cool features and also I can work in channels.
 
-Don't forget to join my [channel](http://t.me/teletipsofficialchannel) to recieve information on all the latest updates.
+Manage By [Ganteng](http://t.me/yaelxz)
 
 Hit /help to find out my commands and the use of them.
 '''
